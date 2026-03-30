@@ -177,3 +177,7 @@ I think this is a strong portfolio project because it shows:
 ## Author
 
 **Daniel Guillaumont**
+
+## License
+
+MIT

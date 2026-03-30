@@ -174,3 +174,6 @@ I think this is a strong portfolio project because it shows:
 - Modular project structure
 - Testing and CI usage
 - A defensive and professional security focus
+## Author
+
+**Daniel Guillaumont**
